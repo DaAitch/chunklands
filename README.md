@@ -11,9 +11,9 @@ Technical focus is that minimum hardware requirements stay low. For Windows, Lin
 ## News and community
 
 - [Visit the website](https://chunklands.de)
-- [Read the blog](https://chunklands.de/blog/README.md)
+- [Read the blog](https://chunklands.de/blog) 🔥
 - [Follow on Twitter](https://twitter.com/chunklands)
-<!-- - [Chat on Discord](https://discord.gg/pdHsD82D) -->
+- [Chat on Discord](https://discord.gg/pdHsD82D)
 
 ## Content
 
@@ -90,8 +90,9 @@ Chunklands has those characteristics focussed:
 
 Philipp Renoth aka `DaAitch`, find me here:
 
-- [Twitter](https://twitter.com/daaitch)
 - [GitHub](https://github.com/daaitch)
+- [Twitter](https://twitter.com/daaitch)
+- [Patreon](https://patreon.com/daaitch)
 
 ## Development
 
